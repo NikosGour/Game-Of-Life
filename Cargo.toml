@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 inline_colorization = "0.1.6"
+color-anyhow = {git = "https://github.com/yaahc/color-anyhow"}
